@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository provides a Python implementation of improved protocols for pose sampling: GLOW (auGmented sampLing with sOftened vdW potential) and a novel technique named IVES (IteratiVe Ensemble Sampling). In addition, we provided new cross-docking datasets generated using GLOW and IVES containing approximately 5,000 protein-ligand cross-docking pairs, serving as invaluable resources for training and evaluating machine learning-based scoring functions. The dataset can be downloaded from [here](https://drive.google.com/drive/folders/1CMlsJzDzIJNSsWbcLDhs4JT-VpaBChOJ).
+This repository provides a Python implementation of two improved protocols for pose sampling: GLOW (auGmented sampLing with sOftened vdW potential) and IVES (IteratiVe Ensemble Sampling). For more details on the protocols, refer to [this link](https://arxiv.org/abs/2312.00191). In addition, we provided new cross-docking datasets generated using GLOW and IVES containing approximately 5,000 protein-ligand cross-docking pairs, serving as invaluable resources for training and evaluating machine learning-based scoring functions. The dataset can be downloaded from [here](https://drive.google.com/drive/folders/1CMlsJzDzIJNSsWbcLDhs4JT-VpaBChOJ).
 
 ## Installation
 
